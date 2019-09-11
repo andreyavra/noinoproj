@@ -1,0 +1,89 @@
+.container_large_white {
+  background-color: white;
+  height: 800px;
+}
+
+.container_text {
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+  font-size: 24px;
+  margin-left: 150px;
+
+  /* margin-top: 150px; */
+}
+
+/*.mainstorycont{
+	padding-left: 3%; 
+	padding-top: 3%;
+	padding-right: 3%;
+	height: 30%;
+	width: 53%;
+	display: flex;	
+}
+*/
+.msbox {
+	width: 720px;
+	background-image: url("https://www.ccn.com/wp-content/uploads/2019/08/Mark-Zuckerberg-NTB-32-720x528.jpg");
+	height: 520px;
+	background-color: grey;
+	display: flex;
+	margin-top: 30%;
+	margin-left: 3%; 
+
+	margin-top: 3%;
+
+}
+
+/*img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+*/
+
+.sidestory1{
+	/*padding-left: 840px;*/
+	height: 250px;
+	width: 31%;
+	float: right;
+	padding-right: 3%;
+	margin-left: 3%;
+	margin-top: 3%;
+	background-image: url(https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1.jpg);
+	position: relative;
+	display: flex;
+}
+
+.sidestory2{
+	background-image: url('https://cnet1.cbsistatic.com/img/Z7sPddV8_lne2VVQ2gEtvPPlQk4=/2019/03/25/19890146-b85e-49c4-ba4e-be422a342be5/apple-news-on-iphone.png');
+	height: 300px;
+	width: 31%;
+	/*background-color: peachpuff;*/
+	float: right;
+	padding-right: 3%;
+	margin-left: 3%;
+	margin-top: 3%;
+	position: relative;
+	display: flex;
+}
+
+.flex{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.articletxt{
+	padding: 30px;
+	width: 100%;
+	background-color: #0005;
+}
+
+.bottom-left {
+  display: flex;
+  align-items: flex-end;
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  color: white;
+}

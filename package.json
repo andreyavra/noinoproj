@@ -1,0 +1,28 @@
+{
+  "name": "hs1973",
+  "version": "1.0.0",
+  "description": "HS1973",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.4.1",
+    "@material/textfield": "^3.1.0",
+    "axios": "^0.19.0",
+    "contentful": "^7.9.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "rc-slider": "^8.6.13"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-plugin-react": "^7.14.3"
+  },
+  "scripts": {
+    "start": "node ./server/src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/highschoolcomputing/hs1973_2019.git"
+  },
+  "author": "Hayden Smith",
+  "license": "ISC"
+}

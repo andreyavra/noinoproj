@@ -1,0 +1,18 @@
+.buccGod {
+  padding: 5px; 
+  margin-top: 20px; 
+  margin-left: 150px;
+}
+.buccText {
+	transition: all 0.3s ease;
+	user-select: none;
+}
+.buccText:hover { 
+  color: green;
+
+}
+
+.buccText:active {
+	color: blue;
+	transform: translateX(10px);
+}

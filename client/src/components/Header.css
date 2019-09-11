@@ -1,0 +1,43 @@
+.header {
+  padding-left: 50px;
+  padding-top: 25px;
+  font-size: 30px;
+  color: seagreen;
+  font-family: "Roboto";
+  font-weight: 700;
+
+}
+
+.navi {
+	padding-left: 35px;
+	font-size: 14px;
+	background-color: white;
+	display: flex;
+
+}
+.navi a{
+	text-decoration: none;
+	color: darkgreen;
+}
+
+.navi .navLink:hover a{
+	color: green;
+	text-shadow: 1px 1px darkgreen;
+	opacity: 50%;
+	transition: all 0.3s ease;
+}
+
+.navLink{
+	padding: 17px;
+}
+
+.navLink:hover {
+	background-color: #ffffff33;
+}
+
+.banner {
+	width: 100%;
+	background-color: seagreen;
+	display: flex;
+	height: 40px;
+}
