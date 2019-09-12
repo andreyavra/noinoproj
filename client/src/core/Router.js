@@ -13,12 +13,6 @@ import Christmas from '../pages/Christmas';
 import Bucc from '../pages/Bucc';
 import Article from '../pages/Article';
 
-// Importing Articles
-import AppleBad from '../pages/articles/AppleBad';
-import IptBad from '../pages/articles/IptBad';
-import SbhsBad from '../pages/articles/SbhsBad';
-
-
 
 class Router extends Component {
   render() {

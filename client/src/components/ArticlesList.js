@@ -69,7 +69,7 @@ class ArticlesList extends Component {
           <TextField 
             style={{padding: 6, marginLeft: 18}}
             id="searchInput"
-            placeholder="Search for Courses"
+            placeholder="Search for articles"
             margin="normal"
             onChange={this.onSearchInputChange}
           />

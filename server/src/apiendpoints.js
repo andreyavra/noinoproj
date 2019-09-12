@@ -70,13 +70,16 @@ const articlesGet = async (req, res, params) => {
 
 
 const loadArticle = async (req, res, params) => {
-  articleName = params.get('articleName');
+  console.log("loggin params in apiendpoints.js:", params);
+  console.log("loggin params._params in apiendpoints.js:", params._params.articleName.name);
+  const articleName = params._params.articleName.name;
+  console.log("loggin articleName in apiendpoints.js:", articleName);
   for (let i = 0; i < global_state.articles.length; i++) {
-    console.log("LOGGING ARTICLES[i], ARTICLE.ARTICLECONTENT:", global_state.articles[i], global_state.articles[i].articleContent);
+    // console.log("LOGGING ARTICLES[i], ARTICLE.ARTICLECONTENT:", global_state.articles[i], global_state.articles[i].articleContent);
     if (global_state.articles[i].fileName === articleName) {
       console.log("LOGGING ARTICLES[i], ARTICLE.ARTICLECONTENT IN IF STATEMENT:", global_state.articles[i], global_state.articles[i].articleContent);
       console.log("NOW RETURNING>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
-      return global_state.articles[i].articleContent;
+      return global_state.articles[i];
     }
     
   }

@@ -27,10 +27,10 @@ const user = (state = initial_state, action) => {
         articles: action.body.data.articles,
       });
       case LOAD_ARTICLE:
-        console.log("In user.js, in case LOAD_ARTICLE, loading action.body.data::", action.body.data);
-        return Object.assign({}, state, {
-          articleContent: action.body.data,
-        });
+        console.log("ACTION", action);
+        console.log("In user.js, in case LOAD_ARTICLE, loading action.body.data::", action.body.data.articleContent);
+        console.log("LOGGING OBJECT:", action.body.data.articleContent);
+        return action.body.data.articleContent;
     default:
       return state;
   }

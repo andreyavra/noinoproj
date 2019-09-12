@@ -7,37 +7,46 @@
     "name":"l",
     "articles":[
         {
-            "name":"Apple Bad",
-            "description":"Why is apple so bad? Click here to find out more",
-            "fileName":"AppleBad",
-            "img":"https://i.imgur.com/Cgmsteh.jpg",
-            "tags":[
-                "apple",
-                "bad"
-            ],
-            "articleContent":"These are the reasons why apple are bad: \n \"Wow it doesnt work\" fs in chat here is an image *@>https://i.imgur.com/Cgmsteh.jpg wow very cool"
+            "name":"The newest apple product announced!",
+            "description":"Apple yet again revolutionises the market with thieir new product.",
+            "fileName":"the-apple-idial",
+            "img":"https://img.buzzfeed.com/buzzfeed-static/static/2019-06/3/16/campaign_images/buzzfeed-prod-web-05/here-are-the-biggest-announcements-from-apples-ww-2-20108-1559594826-0_dblbig.jpg",
+            "articleContent":"Apple recently launched the iPhone 11 in their Apple Event 2019, but they also made a lesser known announcement: a new product in the works - the iDialup. The iDialup is exactly what it sounds like- Apple is taking a go at making everyone’s favourite household relic. Bob Pear comments on the design process of the iDialup: “... we wanted to include a modern twist on the classic retro aesthetic of dial up modem....to achieve that we decided to take the original design and abstracted its features until we are left with nothing but the iDialup - a white rectangle with an LED screen.” \n Apple of removed all the bad design choices of the dial up, such as the clunky, bulky design, and kept the parts that mattered, such as the nostalgic starting sound and the slow connection speed. Consumers can now enjoy this technology as part of their everyday lives now. \n However this groundbreaking piece of tech will sent you back $1200. But it’s a small price to pay for the joys of early 2000’s internet."
         },
         {
-            "name":"Why you shouldn't choose IPT",
-            "description":"Why is ipt so bad? Click here to find out more",
-            "fileName":"IptBad",
-            "img":"https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1.jpg",
-            "tags":[
-                "ipt",
-                "bad"
-            ],
-            "articleContent":"These are the reasons why apple are bad: \n \"Wow it doesnt work\" fs in chat here is an image *@>https://i.imgur.com/Cgmsteh.jpg wow very cool"
+            "name":"ASIO urges government workers to refrain from clicking pop up ads in an attempt to curb cyber attacks.",
+            "description":"AISO has to help keep control over its workers.",
+            "fileName":"aiso-pop-up-ads",
+            "img":"https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Ffa9b534892464058aea0242965e04401%2F200586432%2Fpop-ups.jpg&client=amp-blogside-v2&signature=e87186254327a196e7c1dcc594ef2754d8498c7c",
+            "articleContent":"Members of Australia’s Parliament have been urged to be on high alert this week in the wake of a recent cyber attack. \n The cyber attack was reported a few days ago, and the nation’s cyber security agencies believe was orchestrated by a foreign government, has led to tightened security measures across all levels of parliament. \n 'We’ve briefed plenty of people over the last couple of days and implored them to resist temptation when it comes to opening spam emails, particularly those related to inheriting large sums of money,' an anonymous cybersecurity official said. Briefings will continue monthly to remind workers on the importance of cyber security, especially at work."
         },
         {
-            "name":"Why is Food Tech not an elective at SBHS?",
-            "description":"Why is sbhs so bad? Click here to find out more",
-            "fileName":"SbhsBad",
+            "name":"Students write to NESA about outdated syllabus, gets shut down and is forced to read about video stores.",
+            "description":"How NESA continues to fail course design in many technology-related topics.",
+            "fileName":"students-write-to-nesa",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Floppy_disk_2009_G1.jpg",
+            "articleContent":"The information process and technology HSC syllabus is one that is under constant attack due the outdated resources and textbooks. Maybe students are upset due to the fact that many of the examples in the book that haven't been relevant for the past decade or so. \n ‘I don’t think that an in depth analysis of DVDs will benefit me. I don’t think I’ve used one in my lifetime.’ Says one disgruntled Year 12 student."
+        },
+        {
+            "name":"Dangerous new feature in the iPhone 11",
+            "description":"It's not just the Samsung Galaxy that will occasionally explode - Apple's got their users covered!",
+            "fileName":"apple-iphone's-new-iexplode-application",
+            "img":"https://www.techadvisor.co.uk/cmsdata/features/3647780/stop-phone-overheating_thumb800.jpg",
+            "articleContent":"Apple just announced the recent feature in the iPhone 11 - the iExplode. This new feature will add an application that will explode your phone on the press of a button. \n Tim Cook says, 'Although we know Samsung have added this feature before, I think we have perfected it.'. Not only that, but the new iExplode will have a feature to access iPhones worldwide and use them, for maximum versatility."
+        },
+        {
+            "name":"Students write to NESA about outdated syllabus, gets shut down and is forced to read about video stores.",
+            "description":"How NESA continues to fail course design in many technology-related topics.",
+            "fileName":"students-write-to-nesa",
             "img":"https://storage.googleapis.com/spec-host/mio-staging%2Fmio-material%2F1563837804615%2Fassets%2F112K6Wq8Cs9euF3NkSzRjY2cQ_y11gyRQ%2Fmd-guidelines-2x1-small.png",
-            "tags":[
-                "sbhs",
-                "bad"
-            ],
-            "articleContent":"These are the reasons why apple are bad: \n \"Wow it doesnt work\" fs in chat here is an image *@>https://i.imgur.com/Cgmsteh.jpg wow very cool"
+            "articleContent":"The information process and technology HSC syllabus is one that is under constant attack due the outdated resources and textbooks. Maybe students are upset due to the fact that many of the examples in the book that haven't been relevant for the past decade or so. \n ‘I don’t think that an in depth analysis of DVDs will benefit me. I don’t think I’ve used one in my lifetime.’ Says one disgruntled Year 12 student."
+        },
+        {
+            "name":"Students write to NESA about outdated syllabus, gets shut down and is forced to read about video stores.",
+            "description":"How NESA continues to fail course design in many technology-related topics.",
+            "fileName":"students-write-to-nesa",
+            "img":"https://storage.googleapis.com/spec-host/mio-staging%2Fmio-material%2F1563837804615%2Fassets%2F112K6Wq8Cs9euF3NkSzRjY2cQ_y11gyRQ%2Fmd-guidelines-2x1-small.png",
+            "articleContent":"The information process and technology HSC syllabus is one that is under constant attack due the outdated resources and textbooks. Maybe students are upset due to the fact that many of the examples in the book that haven't been relevant for the past decade or so. \n ‘I don’t think that an in depth analysis of DVDs will benefit me. I don’t think I’ve used one in my lifetime.’ Says one disgruntled Year 12 student."
         }
     ]
 }

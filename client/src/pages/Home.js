@@ -43,8 +43,10 @@ class Home extends Component {
     return (
       <div>
         <Header />
+        <div style={{marginTop: 70}}>
 
         <ArticlesList />
+        </div>
 
         {/* { 
           this.props.articles.map(({name, description, fileName, img, tags}, idx) => {

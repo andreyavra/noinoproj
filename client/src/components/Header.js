@@ -24,7 +24,7 @@ class Header extends React.Component {
   render() {
     return (
       <div>
-        <AppBar position="static" color="primary">
+        <AppBar color="primary">
           <Toolbar>
             <div className="slogan">
               <Typography variant="inherit" color="inherit">
