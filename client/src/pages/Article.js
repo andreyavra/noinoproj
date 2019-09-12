@@ -60,10 +60,17 @@ class Article extends Component {
       <div>
         <Header />
         <div style={{marginTop: 70}}>
-        {
-          this.getCorrespArticle(this.props.match.params.name).articleContent
-          // this.props.loadArticle(this.props.match.params)
-        }
+          <div>
+          {
+            this.getCorrespArticle(this.props.match.params.name).name
+          }
+          </div>
+          <div>
+          {
+            this.getCorrespArticle(this.props.match.params.name).articleContent
+            // this.props.loadArticle(this.props.match.params)
+          }
+          </div>
         </div>
       </div>
     );
